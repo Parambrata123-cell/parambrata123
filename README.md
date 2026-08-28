@@ -33,9 +33,9 @@
 
 <p align="center">
   <img
-    src="./assets/github-activity.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ParambrataBarman&theme=github-dark"
     width="100%"
-    alt="GitHub Contribution Activity"
+    alt="GitHub Activity Graph"
   />
 </p>
 
