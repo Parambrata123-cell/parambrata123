@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
-
+### 🐙 My GitHub Stats
 <p align="center">
   <img
     src="Codex Image Aug 28, 2026, 07_10_28 PM.png"
