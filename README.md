@@ -1,4 +1,4 @@
-<h3 align = "left"> Hi Folks 👋, I am Parambrata Barman</h3>
+<h1 align = "left"> Hi Folks 👋, I am Parambrata Barman</h1>
 
 <h3 align = "left">💻 Learning JavaScript & Python
   Beginner Web Developer | Ai/ML enthusiast | Interest in Enterprenuership
