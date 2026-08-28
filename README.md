@@ -1,4 +1,3 @@
-# parambrata123
 <h1 align = "left">Hi everyone👋, I am Parambrata Barman</h1>
 <h3 align = "left">- 💻 Learning JavaScript & Python
   Beginner Web Developer | Ai/ML enthusiast | Interest in Enterprenuership
@@ -21,9 +20,9 @@
 
 ### 🌐 Find Me In
 <p align="left">
-  <a href="https://www.linkedin.com/in/parambrata-barman-63698627b/">LinkedIn</a> •
-  <a href="https://mail.google.com/mail/u/1/#inbox">E-MAIL</a> •
-  <a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en">Instagram</a>
+  <button><a href="https://www.linkedin.com/in/parambrata-barman-63698627b/"></a> Linked In</button> •
+  <button><a href="https://mail.google.com/mail/u/1/#inbox"></a>E-MAIL</button> •
+  <button><a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en"></a>Instagram</button>
 </p>
 
 
