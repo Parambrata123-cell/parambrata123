@@ -26,9 +26,8 @@
  <a href="https://mail.google.com/mail/u/1/#inbox">
    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>•
-
-  <p align="center">
-  <img src="./assets/github-contributions.png" width="100%">
-</p>
+ <a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en">
+   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>•
 
 
