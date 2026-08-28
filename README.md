@@ -20,9 +20,9 @@
 
 ### 🌐 Find Me In
 <p align="left">
-  <button><a href="https://www.linkedin.com/in/parambrata-barman-63698627b/"></a> Linked In</button> •
-  <button><a href="https://mail.google.com/mail/u/1/#inbox"></a>E-MAIL</button> •
-  <button><a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en"></a>Instagram</button>
+<a href="https://www.linkedin.com/in/parambrata-barman-63698627b/"> Linked In</a> •
+ <a href="https://mail.google.com/mail/u/1/#inbox">E-MAIL</a>•
+<a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en">Instagram</a>
 </p>
 
 
