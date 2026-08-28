@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="7143b5ee-374c-4641-9ca3-11397e6d489f.png"
+    src="Codex Image Aug 28, 2026, 07_10_28 PM.png"
     width="100%"
     height = "50%"
     alt="GitHub Activity Graph"
