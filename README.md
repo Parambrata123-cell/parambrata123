@@ -21,13 +21,13 @@
 ### 🌐 Find Me In
 <p align="left">
 <a href="https://www.linkedin.com/in/parambrata-barman-63698627b/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a> •
  <a href="https://mail.google.com/mail/u/1/#inbox">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>•
 <a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en">
-   <img src="https://www.flaticon.com/free-icon/instagram_5968776?term=instagram&page=1&position=44&origin=tag&related_id=5968776" />
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 </p>
 
