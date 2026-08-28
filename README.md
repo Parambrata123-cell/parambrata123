@@ -1,5 +1,5 @@
 <h1 align = "left">Hi everyone👋, I am Parambrata Barman</h1>
-<h3 align = "left">- 💻 Learning JavaScript & Python
+<h3 align = "left">💻 Learning JavaScript & Python
   Beginner Web Developer | Ai/ML enthusiast | Interest in Enterprenuership
 </h3>
 
