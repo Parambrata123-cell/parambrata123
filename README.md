@@ -35,6 +35,7 @@
   <img
     src="7143b5ee-374c-4641-9ca3-11397e6d489f.png"
     width="100%"
+    height = "50%"
     alt="GitHub Activity Graph"
   />
 </p>
