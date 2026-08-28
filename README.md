@@ -28,7 +28,7 @@
 </a>
  <a href="https://www.instagram.com/creaturesofcomfort._____/?hl=en" style="text-decoration:none;">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-</a>•
+</a>
 
 
 <p align="center">
