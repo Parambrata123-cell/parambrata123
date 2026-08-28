@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ParambrataBarman&theme=github-dark"
+    src="C:\Users\PARAMBRATA BARMAN\OneDrive\Desktop\7143b5ee-374c-4641-9ca3-11397e6d489f.png"
     width="100%"
     alt="GitHub Activity Graph"
   />
