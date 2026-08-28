@@ -31,3 +31,13 @@
 </a>•
 
 
+<p align="center">
+  <img
+    src="./assets/github-activity.svg"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+
+
